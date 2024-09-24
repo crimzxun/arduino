@@ -1,4 +1,5 @@
 // C++ code
+// Controls the brightness and color of LEDs using a potentiometer.
 
 // Pins for RGB LED
 const int redPin = 11;
