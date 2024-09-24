@@ -1,4 +1,5 @@
 // C++ code
+// Continuously fade the LED in and out by changing the brightness value between 0 and 255.
 
 int LED = 3;          // defines that LED is connected to pin 3.
 int brightness = 0;   // sets initial brightness to 0 (i.e. off).
